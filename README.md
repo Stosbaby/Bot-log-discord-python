@@ -32,7 +32,7 @@ Actuellement, votre option pour utiliser Discord Logger est l'auto-hébergement.
 
 1. Clonez ce dépôt :
    ```
-   git clone 
+   git clone https://github.com/Stosbaby/Bot-log-discord-python.git
    ```
 
 2. Naviguez vers le répertoire du dépôt et installez les dépendances nécessaires.
